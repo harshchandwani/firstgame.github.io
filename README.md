@@ -1,4 +1,4 @@
-# firstgame
+# Play Sleep Eat Repeat
 Made by Harsh Chandwani
 
 Language Used- HTML, JavaScript
